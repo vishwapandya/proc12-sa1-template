@@ -1,5 +1,4 @@
-var marks = [35,38,42,45,43,34,46,41,48,32];
-
+var array = [1,2,3,4,5]
 
 function setup() 
 {
